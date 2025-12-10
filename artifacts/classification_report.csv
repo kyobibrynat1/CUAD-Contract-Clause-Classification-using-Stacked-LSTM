@@ -1,0 +1,44 @@
+,precision,recall,f1-score,support
+Affiliate License-Licensee,0.0,0.0,0.0,0.0
+Affiliate License-Licensor,0.0,0.0,0.0,0.0
+Agreement Date,0.4864864864864865,0.6352941176470588,0.5510204081632653,85.0
+Anti-Assignment,0.0,0.0,0.0,0.0
+Audit Rights,0.0,0.0,0.0,0.0
+Cap On Liability,0.0,0.0,0.0,0.0
+Change Of Control,0.0,0.0,0.0,0.0
+Competitive Restriction Exception,0.0,0.0,0.0,1.0
+Covenant Not To Sue,0.0,0.0,0.0,1.0
+Document Name,0.9821428571428571,0.9821428571428571,0.9821428571428571,56.0
+Effective Date,0.325,0.19696969696969696,0.24528301886792453,66.0
+Exclusivity,0.0,0.0,0.0,0.0
+Expiration Date,0.5714285714285714,0.48,0.5217391304347826,50.0
+Governing Law,0.8235294117647058,0.9333333333333333,0.875,15.0
+Insurance,0.0,0.0,0.0,0.0
+Ip Ownership Assignment,0.0,0.0,0.0,1.0
+Irrevocable Or Perpetual License,0.0,0.0,0.0,0.0
+Joint Ip Ownership,0.0,0.0,0.0,0.0
+License Grant,0.0,0.0,0.0,0.0
+Liquidated Damages,0.0,0.0,0.0,1.0
+Minimum Commitment,0.0,0.0,0.0,0.0
+Most Favored Nation,0.0,0.0,0.0,0.0
+No-Solicit Of Customers,0.0,0.0,0.0,0.0
+No-Solicit Of Employees,0.0,0.0,0.0,1.0
+Non-Compete,0.0,0.0,0.0,0.0
+Non-Disparagement,0.0,0.0,0.0,1.0
+Non-Transferable License,0.0,0.0,0.0,0.0
+Parties,1.0,0.99,0.9949748743718593,100.0
+Post-Termination Services,0.0,0.0,0.0,1.0
+Price Restrictions,0.0,0.0,0.0,1.0
+Renewal Term,0.75,1.0,0.8571428571428571,9.0
+Revenue/Profit Sharing,0.0,0.0,0.0,0.0
+Rofr/Rofo/Rofn,0.0,0.0,0.0,1.0
+Source Code Escrow,0.0,0.0,0.0,0.0
+Termination For Convenience,0.0,0.0,0.0,0.0
+Third Party Beneficiary,0.0,0.0,0.0,1.0
+Uncapped Liability,0.0,0.0,0.0,0.0
+Unlimited/All-You-Can-Eat-License,0.0,0.0,0.0,1.0
+Volume Restriction,0.0,0.0,0.0,0.0
+Warranty Duration,0.0,0.0,0.0,1.0
+accuracy,0.6819338422391857,0.6819338422391857,0.6819338422391857,0.6819338422391857
+macro avg,0.12346468317056551,0.13044350012732364,0.12568257865308866,393.0
+weighted avg,0.675510740710561,0.6819338422391857,0.6728985842553977,393.0
