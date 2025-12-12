@@ -1,0 +1,13 @@
+,Agreement Date,Agreement Date-Answer,Anti-assignment,Cap on Liability,Document Name,Effective Date,Effective Date-Answer,Expiration Date,Governing Law,License Grant,Parties,Parties-Answer
+Agreement Date,68,0,0,0,0,1,0,1,0,0,0,0
+Agreement Date-Answer,0,58,0,0,0,0,6,0,0,0,0,0
+Anti-assignment,0,0,51,0,0,1,0,1,0,3,0,0
+Cap on Liability,0,0,2,38,0,1,0,0,0,0,0,0
+Document Name,1,0,0,0,45,0,0,0,0,0,0,0
+Effective Date,40,0,0,0,0,10,0,7,0,0,0,0
+Effective Date-Answer,0,44,0,0,0,0,4,0,0,0,0,1
+Expiration Date,0,0,1,0,0,2,0,59,0,0,0,0
+Governing Law,0,0,1,1,0,0,0,0,63,1,0,0
+License Grant,0,0,1,0,0,0,0,1,0,36,0,0
+Parties,0,0,0,0,0,0,0,0,0,0,76,0
+Parties-Answer,0,0,0,0,0,0,1,0,0,1,0,73
